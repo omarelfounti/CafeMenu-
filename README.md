@@ -38,4 +38,4 @@ Colores cálidos y un fondo decorativo de granos de café enriquecen la experien
 📁 Camper-Cafe
 ├── index.html        # Archivo principal de la página web
 ├── style.css         # Estilos para el diseño del menú
-└──  README.md         # Documentación del proyecto
+└── README.md         # Documentación del proyecto
